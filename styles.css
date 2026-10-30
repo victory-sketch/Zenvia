@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top{
+    display: flex;
+    background-color: whitesmoke;
+    justify-content: space-between;
+}
+strong{
+    color: blue;
+}
+small{
+    color: rgb(127, 233, 233);
+}
+.hero{
+    background-image: url(.);
+    background-size: cover;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+h3{
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    line-height: 70px;
+    margin-bottom: 52px;
+}
